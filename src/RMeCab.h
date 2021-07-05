@@ -23,7 +23,7 @@
 #define _RMECAB_H
 
 //#include <mecab.h>
-#include "../inst/include/mecab.h"
+#include "/opt/homebrew/include/mecab.h"
 #include <R.h>
 #include <Rdefines.h>
 #include <Rinternals.h>
